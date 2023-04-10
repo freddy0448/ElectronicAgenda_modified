@@ -57,5 +57,8 @@ sbyte menuOption;
         case 1:
             ContactsRepository contactsRepository = new ContactsRepository(menuOption);
         break;
-        
+
+        case 2:
+            EventsRepository eventsRepository = new EventsRepository(menuOption);
+        break;
     }
