@@ -9,6 +9,7 @@ namespace ElectronicAgenda_modified.DataLayer.Repository
         private int _idChange;
         private List<string> _insertValues = new List<string>();
         private bool _parseSuccess;
+        
 
         public void delete()
         {
