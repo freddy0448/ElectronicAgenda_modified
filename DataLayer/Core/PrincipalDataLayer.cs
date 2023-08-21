@@ -8,7 +8,7 @@ namespace ElectronicAgenda_modified.DataLayer.Core
     public abstract class principalDataLayer 
     {
         protected SqlConnection sqlConnection = new SqlConnection();
-        protected  string connectionString = "Data Source=LAPTOP-6SLH18HM;Initial Catalog=final_project; Integrated Security=True";
+        protected  string connectionString = "Data Source=LAPTOP-6SLH18HM;Initial Catalog=Digital Agenda; Integrated Security=True";
         protected void closeConnection()
         {
             sqlConnection.Close();

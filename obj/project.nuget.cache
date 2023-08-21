@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yetOScrsUM/mCV6Yw7tjAGdR1ecg1gVkA7JyVDf+/fBeKvO7IK0uCp+Ov0tFGvHPqga7dHgyKXOIOp30t1R+dA==",
+  "dgSpecHash": "o5zgNhs8LAX5QfI6d9Ev62kuTahHXs/8x34mN+hjfLkV98Wwcj0CKE61UebMjb7UV0L69gw16j0qroDOWiuy/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj",
+  "projectFilePath": "c:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Freddy Villar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Freddy Villar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -43,7 +43,11 @@
     "C:\\Users\\Freddy Villar\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Freddy Villar\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\Freddy Villar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Freddy Villar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Freddy Villar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Freddy Villar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Freddy Villar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Freddy Villar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Freddy Villar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
   ],
   "logs": []
 }

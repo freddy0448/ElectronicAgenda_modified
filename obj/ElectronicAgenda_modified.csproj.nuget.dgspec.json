@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj": {}
+    "c:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj": {
+    "c:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj",
+        "projectUniqueName": "c:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj",
         "projectName": "ElectronicAgenda_modified",
-        "projectPath": "C:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj",
+        "projectPath": "c:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\ElectronicAgenda_modified.csproj",
         "packagesPath": "C:\\Users\\Freddy Villar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\obj\\",
+        "outputPath": "c:\\Users\\Freddy Villar\\source\\repos\\ElectronicAgenda_modified\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,12 +61,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
